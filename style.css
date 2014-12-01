@@ -1,0 +1,17 @@
+.board {
+    width: 400px;
+}
+.box {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: lightgray;
+    border: 1px solid black;
+    margin: 3px;
+    font-size: 14pt;
+    text-align: center;
+}
+.row {
+	float: left;
+	clear: both;
+}
